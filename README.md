@@ -22,4 +22,7 @@ you'll be able to install with the following command:
 #Usage
 
 Simply run `i-am-a-skid`. You can use the --language switch to specify
-a language beforehand.
+a language beforehand. Otherwise, the program will ask you which
+language you seek help with. Next, you will be asked what your end goal
+is. Based on this information, a Google search query will be generated
+and opened in your browser. Bam.
