@@ -2,6 +2,8 @@ For more goodness, check out [my blog](http://blog.thosakwe.com). :)
 
 Feel free to follow me on Twitter: [@_wapaa_](http://twitter.com/_wapaa_)
 
+![i-am-a-skid](https://github.com/regiostech/i-am-a-skid/raw/master/screenshots/screenshot.PNG)
+
 #i-am-a-skid
 
 The purpose of this script is simple: **To eliminate skids everywhere!!**
