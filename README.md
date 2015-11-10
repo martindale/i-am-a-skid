@@ -12,7 +12,10 @@ all.
 
 #Installation
 
-You'll need to Node.js to install this.
+You'll need to have Node.js to install this. If you don't know what it is,
+it's basically a cool thing that runs Javascript in your command
+prompt/terminal. Head to https://nodejs.org and download it. Afterwards,
+you'll be able to install with the following command:
 
 >	npm install -g i-am-a-skid
 
